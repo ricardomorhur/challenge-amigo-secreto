@@ -3,4 +3,4 @@
 
 ![Imagen amigo secreto](assets/amigo-secreto.png)
 
-# ¡Bienvenid@ a mi primer desafío! - El Juego del Amigo Secreto , el cual genera el sorte aleatorio de participantes, para así encontrar a tu amigo secreto.
+# ¡Bienvenid@ a mi primer desafío! - El Juego del Amigo Secreto , el cual genera el sorteo aleatorio de participantes, para así encontrar a tu amigo secreto.
